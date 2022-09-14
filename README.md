@@ -1,2 +1,2 @@
-# landing-page-InDecor
+# landing-page-indecor
 Project developed with HTML and CSS
